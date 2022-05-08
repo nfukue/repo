@@ -1,3 +1,3 @@
 # repo
 repo
-:coffe: 🍕
+☕ 🍕
